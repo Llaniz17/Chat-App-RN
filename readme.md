@@ -6,6 +6,13 @@ Esta es una aplicación de chat desarrollada en React Native que utiliza la API 
 - Integración con Google Generative AI: La aplicación utiliza la API de Generative AI de Google para generar respuestas de inteligencia artificial.
 - Interfaz de Usuario Amigable: Diseño intuitivo y fácil de usar para una experiencia de usuario fluida.
 
+## Demostración
+
+
+https://github.com/Llaniz17/Chat-App-RN/assets/87396322/129a28a0-ebe2-4aaf-967d-4167a2ca67a2
+
+
+
 ## Instalación
 Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 
